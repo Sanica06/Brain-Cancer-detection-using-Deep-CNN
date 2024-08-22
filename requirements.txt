@@ -1,0 +1,17 @@
+google-cloud-storage
+tensorflow==2.14.0
+keras==2.14.0
+pillow
+numpy~=1.24
+python-docx
+fpdf
+segmentation-models==1.0.1
+efficientnet==1.0.0
+pandas>=2.0.0
+ipykernel>=6.22.0
+openpyxl>=3.1.2
+plotly>=5.14.1
+matplotlib>=3.7.1
+scikit-learn>=1.2.2
+opencv-python
+reportlab
